@@ -31,5 +31,9 @@ public class Receipt implements ReceiptInterface{
     public BigDecimal getTotal() {
         return total;
     }
+
+    public void provaCommit() {
+
+    }
 }
 

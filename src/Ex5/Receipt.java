@@ -27,14 +27,5 @@ public class Receipt implements ReceiptInterface{
         total = total.multiply(percent);
         closed = true;
     }
-
-    /*Comentario de prueba
-    La disco encendida, y ella lucia
-    nombre de pila ariadna
-    pero hoy se llama sofia
-    tiende por hacer cosas que no deberia
-    se tomo una pastillita
-    y hasta el otro dia
-     */
 }
 

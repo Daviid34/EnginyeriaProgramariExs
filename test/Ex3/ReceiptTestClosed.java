@@ -10,6 +10,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 
 class ReceiptTestClosed {
     Receipt receipt;
+    //usted es un mamahuevo mamahuevaso
 
     @BeforeEach
     void initReceipt() throws IsClosedException {
